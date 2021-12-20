@@ -31,7 +31,7 @@ body {
 }
 
 @media screen and (max-width: 550px){
-    .collapse {
+    .navbar {
         display: flex; 
         flex-direction: column; 
     }
